@@ -63,7 +63,12 @@
             }
         </style>
     </head>
-    <body>
+    <body style="background-color: red">
+      <div class="card">
+        <div class="card-header bg-info">
+          <h1>header</h1>
+        </div>
+      </div>
         <div class="flex-center position-ref full-height">
           <header>
 			<section id"menu">
